@@ -18,4 +18,4 @@ A variety of projects were developed, ranging from web applications to data anal
 Acknowledgements
 Special thanks to Dr. Angela Yu, whose expertise and inspiring teaching methods have profoundly impacted my journey in programming. Her guidance was invaluable in navigating the complexities of software development.
 
-<img src = 'Dr. Angela' height='200'>
+<img src = 'Dr.Angela' height='200'>
