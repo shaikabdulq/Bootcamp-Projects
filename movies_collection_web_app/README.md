@@ -2,6 +2,8 @@
 ### Description
 The Top Movies Web Application is a Flask-based web application that allows users to view, add, and edit a list of top movies. This application includes features such as movie ratings, descriptions, and images, and provides an interactive interface for managing movie data.
 
+<img src = 'static/image/movies collection website.gif'>
+
 ### Technologies Used
 - **Python**: For backend development.
 - **Flask**: A micro web framework used for the server-side logic.
